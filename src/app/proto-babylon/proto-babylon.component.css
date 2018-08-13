@@ -1,0 +1,5 @@
+#renderCanvas{
+	width: 800px;
+	height: 450px;
+	touch-action: none;
+}
