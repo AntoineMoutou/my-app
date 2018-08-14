@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-	title = '3D module prototype';
+	title = '3D module prototypes';
 
   constructor() { }
 
